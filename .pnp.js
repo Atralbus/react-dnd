@@ -17144,24 +17144,24 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["gatsby-remark-images", [
-        ["npm:3.11.0", {
-          "packageLocation": "./.yarn/cache/gatsby-remark-images-npm-3.11.0-2eb70c7e78-7cb48f22ae.zip/node_modules/gatsby-remark-images/",
+        ["npm:3.11.1", {
+          "packageLocation": "./.yarn/cache/gatsby-remark-images-npm-3.11.1-7e0015fdca-b556b708ca.zip/node_modules/gatsby-remark-images/",
           "packageDependencies": [
-            ["gatsby-remark-images", "npm:3.11.0"]
+            ["gatsby-remark-images", "npm:3.11.1"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:3.11.0", {
-          "packageLocation": "./.yarn/$$virtual/gatsby-remark-images-virtual-df8fa15ca7/0/cache/gatsby-remark-images-npm-3.11.0-2eb70c7e78-7cb48f22ae.zip/node_modules/gatsby-remark-images/",
+        ["virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:3.11.1", {
+          "packageLocation": "./.yarn/$$virtual/gatsby-remark-images-virtual-f7cb86c22a/0/cache/gatsby-remark-images-npm-3.11.1-7e0015fdca-b556b708ca.zip/node_modules/gatsby-remark-images/",
           "packageDependencies": [
-            ["gatsby-remark-images", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:3.11.0"],
+            ["gatsby-remark-images", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:3.11.1"],
             ["@babel/runtime", "npm:7.12.13"],
             ["@types/gatsby", null],
             ["@types/gatsby-plugin-sharp", null],
             ["chalk", "npm:4.1.0"],
             ["cheerio", "npm:1.0.0-rc.5"],
             ["gatsby", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.32.8"],
-            ["gatsby-core-utils", "npm:1.10.0"],
+            ["gatsby-core-utils", "npm:1.10.1"],
             ["gatsby-plugin-sharp", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.14.3"],
             ["is-relative-url", "npm:3.0.0"],
             ["lodash", "npm:4.17.20"],
@@ -26668,7 +26668,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["gatsby-plugin-typography", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.12.0"],
             ["gatsby-remark-autolink-headers", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.11.0"],
             ["gatsby-remark-copy-linked-files", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.10.0"],
-            ["gatsby-remark-images", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:3.11.0"],
+            ["gatsby-remark-images", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:3.11.1"],
             ["gatsby-remark-prismjs", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:3.13.0"],
             ["gatsby-source-filesystem", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.11.0"],
             ["gatsby-transformer-remark", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.16.0"],
